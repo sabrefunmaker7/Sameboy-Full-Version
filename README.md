@@ -241,4 +241,4 @@ This repository serves as the official landing page for SameBoy. The software is
 **Get the most recent version of SameBoy today!**
 
 ---
-**Last updated:** 2026-09-30 22:42:23 UTC
+**Last updated:** 2026-10-01 01:39:57 UTC
